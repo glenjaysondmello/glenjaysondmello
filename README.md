@@ -19,8 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glenjaysondmello&show_icons=true&locale=en&layout=compact" alt="glenjaysondmello" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glenjaysondmello&" alt="glenjaysondmello" /></p> 
-
 ###
 
 <br clear="both">
