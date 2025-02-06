@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Paying Guest](https://github.com/glenjaysondmello/pg-app.git)
 
-- 🌱 I’m currently learning *Devops*
+- 🌱 I’m currently learning **Devops**
 
-- 📫 How to reach me *glendmello04@gmail.com*
+- 📫 How to reach me **glendmello04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
