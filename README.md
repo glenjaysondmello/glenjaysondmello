@@ -30,9 +30,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <br><br>
+  </a>&nbsp;&nbsp;
 
   <!-- Frontend Development -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -46,9 +44,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-
-  <br><br>
+  </a>&nbsp;&nbsp;
 
   <!-- Backend Development -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -56,9 +52,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-
-  <br><br>
+  </a>&nbsp;&nbsp;
 
   <!-- Database Management -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -66,16 +60,12 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <br><br>
+  </a>&nbsp;&nbsp;
 
   <!-- API Testing and Development -->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-
-  <br><br>
+  </a>&nbsp;&nbsp;
 
   <!-- Version Control and Deployment -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -83,16 +73,12 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
-  <br><br>
+  </a>&nbsp;&nbsp;
 
   <!-- Cloud and Authentication Services -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-
-  <br><br>
+  </a>&nbsp;&nbsp;
 
   <!-- Programming for Advanced Development -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -100,7 +86,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
 
 </div>
 
