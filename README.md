@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glen Jayson Dmello</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Paying Guest](https://github.com/glenjaysondmello/pg-app.git)
+- 🔭 I’m currently working on [Paying Guest Application](https://github.com/glenjaysondmello/pg-app.git)
 
 - 🌱 I’m currently learning **Devops**
 
