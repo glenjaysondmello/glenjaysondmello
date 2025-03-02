@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/glen-jayson-dmello-927415251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glen jayson dmello" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_mello.d.glen_?igsh=M2ZiemMwcXY0eGdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mello.d.glen_h" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/glenjaysondmello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="glenjaysondmello" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 ###
