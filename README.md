@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Paying Guest Application](https://github.com/glenjaysondmello/pg-app.git)
 
-- 🌱 I’m currently learning **Devops**
-
 - 📫 How to reach me **glendmello04@gmail.com**
   
 ###
