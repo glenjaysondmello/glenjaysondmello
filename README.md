@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PG Application<br><br>💬 Ask me about React, Node, Express, MongoDB, Firebase<br><br>📫 How to reach me glendmello04@gmail.com
+🔭 I’m currently working on PG Application<br><br>💬 Ask me about React, Node, Express, MongoDB, Firebase<br><br>
 
 
 ## 🌐 Socials:
