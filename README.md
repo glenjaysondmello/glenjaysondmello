@@ -1,22 +1,11 @@
-<h1 align="center">Hi 👋, I'm Glen Jayson Dmello</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | MERN Enthusiast | Firebase & FastAPI Integrator</h3>
+# 💫 About Me:
+🔭 I’m currently working on PG Application<br><br>💬 Ask me about React, Node, Express, MongoDB, Firebase<br><br>📫 How to reach me glendmello04@gmail.com
 
----
 
-## 💫 About Me:
-- 🔭 I’m currently working on a **PG Application**  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Firebase**  
-- 📫 Reach me at: **glendmello04@gmail.com**   
-- ⚡ Fun Fact: I love building things from scratch and optimizing them for performance!
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: glendmello04@gmail.com) 
 
----
-
-## 🌐 Connect With Me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glendmello04@gmail.com)
-
----
-
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -33,25 +22,15 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=glenjaysondmello&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=glenjaysondmello&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glenjaysondmello&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glenjaysondmello&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=glenjaysondmello&theme=dark&hide_border=false" height="180" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenjaysondmello&theme=dark&hide_border=false&layout=compact" height="180" alt="Top Languages"/>
-</div>
-
----
-
-### 🔝 Top Contributed Repo:
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=glenjaysondmello&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=harshithraihars&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 Visitor Count:
-[![](https://visitcount.itsvg.in/api?id=glenjaysondmello&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
----
-
-<!-- Powered by Glen Jayson Dmello | Generated with ❤️ using GPRM (https://gprm.itsvg.in) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
