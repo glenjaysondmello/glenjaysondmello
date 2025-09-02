@@ -56,7 +56,4 @@ Hey there! 👋 I'm **Glen Jayson Dmello**, a passionate **Full Stack Developer*
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=glenjaysondmello&icon=0&color=0)](https://visitcount.itsvg.in)  
-
----
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
