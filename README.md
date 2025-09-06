@@ -51,9 +51,4 @@ Hey there! 👋 I'm **Glen Jayson Dmello**, a passionate **Full Stack Developer*
 
 ---
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=glenjaysondmello&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
