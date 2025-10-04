@@ -9,8 +9,8 @@ Hey there! 👋 I'm **Glen Jayson Dmello**, a passionate **Full Stack Developer*
 
 ## 🌐 Connect With Me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:glendmello04@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glenjaysondmello)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glen-jayson-dmello-927415251)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=vercel&logoColor=white)](https://glenjaysondmello.github.io/my_portfolio/)  
 
 ---
 
