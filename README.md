@@ -76,6 +76,7 @@
 <img src="https://github-trophies.vercel.app/?username=glenjaysondmello&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
 
 <br/>
+<br/>
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glenjaysondmello&theme=github_dark" />
 
