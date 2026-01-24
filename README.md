@@ -1,53 +1,151 @@
-# 💫 About Me
-Hey there! 👋 I'm **Glen Jayson Dmello**, a passionate **Full Stack Developer** 🚀 who loves building modern, scalable, and impactful applications.    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Glen%20Jayson%20Dmello&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%">
 
-- 🌱 Learning & exploring: **Cloud Computing | AI Integrations**
-- 💬 Ask me about: **React, Node.js, Express.js, MongoDB, Nest.js, Flutter, Firebase**
-- ⚡ Fun fact: I debug faster when there’s ☕ coffee involved 😄  
+<br/>
 
----
+<div align="center">
+  
+### 👨‍💻 About Me
 
-## 🌐 Connect With Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:glendmello04@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glen-jayson-dmello-927415251)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=vercel&logoColor=white)](https://glenjaysondmello.github.io/my_portfolio/)  
+🚀 **Passionate Full Stack Developer** building modern, scalable, and impactful applications  
+🌱 **Currently Exploring:** Cloud Computing • AI Integrations • Advanced System Design  
+💡 **Tech Stack Expertise:** React • Node.js • Express • NestJS • Flutter • Firebase • MongoDB  
+⚡ **Fun Fact:** I debug fastest with a ☕ coffee in hand!
 
----
+<br/>
 
-# 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=qdrant&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Website-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://glenjaysondmello.github.io/my_portfolio/)
+[![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glendmello04@gmail.com)
 
+</div>
 
-![My Awesome GIF](https://i.gifer.com/5TMy.gif)
+<br/>
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=glenjaysondmello&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>  
-![](https://nirzak-streak-stats.vercel.app/?user=glenjaysondmello&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=glenjaysondmello&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
----
+<br/>
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glen-jayson-dmello-927415251)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mello.d.glen_?igsh=M2ZiemMwcXY0eGdi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GlenJaysonDmello/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/glendmeaxzf?tab=activity)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<div align="center">
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,flutter,dart,js,ts&perline=9" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,prisma,py,java&perline=8" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,docker,git&perline=7" />
+</p>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  
+<img src="https://github-trophies.vercel.app/?username=glenjaysondmello&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
+
+<br/><br/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glenjaysondmello&theme=github_dark" />
+
+<br/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glenjaysondmello&theme=2077" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glenjaysondmello&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glenjaysondmello&theme=github_dark" />
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=glenjaysondmello&theme=dark&hide_border=false" width="600" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/glenjaysondmello?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<br/>
+
+<h2 align="center">🐾 My Git Animals Farm</h2>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=glenjaysondmello&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/glenjaysondmello" width="600" height="300" />
+  </a>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+<div align="center">
+  
+### 💭 Developer Wisdom
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%22Code+is+like+humor.;When+you+have+to+explain+it%2C+it's+bad.%22;%E2%80%94+Cory+House+%E2%9C%A8" alt="Custom Quote" />
+</div>
+
+<br/>
+
+<div align="center">
+  <b>👀 Profile Views</b>
+  <br/>
+  <br/>
+  <img src="https://count.getloli.com/get/@glenjaysondmello?theme=rule34" />
+</div>
+
+<br/>
+
+### ⭐ If you find my work interesting, feel free to star my repositories!
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
