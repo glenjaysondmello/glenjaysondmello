@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Glen%20Jayson%20Dmello&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Glen%20Jayson%20Dmello&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%">
 
 <br/>
 
@@ -20,8 +20,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
 <br/>
 
 <h2 align="center">🤝 Connect With Me</h2>
@@ -37,7 +35,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 <br/>
 
@@ -64,8 +64,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 <br/>
 
 <h2 align="center">📊 GitHub Statistics</h2>
@@ -74,37 +75,41 @@
   
 <img src="https://github-trophies.vercel.app/?username=glenjaysondmello&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
 
-<br/><br/>
+<br/>
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glenjaysondmello&theme=github_dark" />
 
 <br/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glenjaysondmello&theme=2077" />
+<img height="180em" src="https://github-widgetbox.vercel.app/api/profile?username=glenjaysondmello&data=followers,repositories,stars,commits&theme=dark" />
+
+<br/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glenjaysondmello&theme=github_dark" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glenjaysondmello&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=glenjaysondmello&theme=dark&hide_border=false" width="600" />
+<br/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 <br/>
 
 <h2 align="center">📈 Contribution Graph</h2>
-
+<br/>
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/glenjaysondmello?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true" alt="Contribution Graph" />
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+
 <br/>
 
 <h2 align="center">🐾 My Git Animals Farm</h2>
@@ -117,7 +122,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 <br/>
 
