@@ -80,9 +80,6 @@
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glenjaysondmello&theme=github_dark" />
 
-<br/>
-
-<img height="180em" src="https://github-widgetbox.vercel.app/api/profile?username=glenjaysondmello&data=followers,repositories,stars,commits&theme=dark" />
 
 <br/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glenjaysondmello&theme=github_dark" />
