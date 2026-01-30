@@ -109,24 +109,6 @@
 </p>
 
 <br/>
-
-<h2 align="center">🐾 My Git Animals Farm</h2>
-
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=glenjaysondmello&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/glenjaysondmello" width="600" height="300" />
-  </a>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
-<br/>
-
-<div align="center">
   
 ### 💭 Developer Wisdom
 
