@@ -8,12 +8,12 @@
 
 🚀 **Passionate Full Stack Developer** building modern, scalable, and impactful applications  
 🌱 **Currently Exploring:** Cloud Computing • AI Integrations • Advanced System Design  
-💡 **Tech Stack Expertise:** React • Node.js • Express • NestJS • Flutter • Firebase • MongoDB  
+💡 **Tech Stack Expertise:** React • Next.js • Node.js • Express • NestJS • Flutter • Firebase • MongoDB  
 ⚡ **Fun Fact:** I debug fastest with a ☕ coffee in hand!
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Website-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://glenjaysondmello.github.io/my_portfolio/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Website-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://glenjaysondmello-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glendmello04@gmail.com)
 
 </div>
@@ -35,9 +35,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+###
 
 <br/>
 
@@ -46,38 +44,47 @@
 <div align="center">
 
 ### Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,flutter,dart,js,ts&perline=9" />
+  <img src="https://skillicons.dev/icons?i=tailwind,react,redux,next,flutter&perline=6" />
 </p>
 
 ### Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,prisma,py,java&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,prisma&perline=6" />
 </p>
 
 ### Database & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,docker,git&perline=7" />
 </p>
 
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,dart&perline=7" />
+</p>
+
 </div>
+
+
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+###
 <br/>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  
-<img src="https://github-trophies.vercel.app/?username=glenjaysondmello&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
 
 <br/>
-<br/>
 
+<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/glenjaysondmello?theme=github-dark&cardType=github" />
+
+<br/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glenjaysondmello&theme=github_dark" />
 
 
@@ -90,23 +97,19 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+###
 
 <br/>
 
 <h2 align="center">📈 Contribution Graph</h2>
 <br/>
 <div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/glenjaysondmello?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true" alt="Contribution Graph" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/glenjaysondmello?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink" alt="Contribution Graph" />
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+###
 
 <br/>
   
